@@ -1,0 +1,27 @@
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Pendidikan\Pemrograman Visual\Calculator\Calculator\Calculator\obj\Debug\Calculator.FormUtama.resources
+C:\Users\Acer\Downloads\kalkulatorku-master\kalkulatorku-master\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Acer\Downloads\kalkulatorku-master\kalkulatorku-master\Calculator\bin\Debug\Calculator.exe
+C:\Users\Acer\Downloads\kalkulatorku-master\kalkulatorku-master\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Acer\Downloads\kalkulatorku-master\kalkulatorku-master\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\kalkulatorku-master\kalkulatorku-master\Calculator\obj\Debug\Calculator.FormUtama.resources
+C:\Users\Acer\Downloads\kalkulatorku-master\kalkulatorku-master\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Acer\Downloads\kalkulatorku-master\kalkulatorku-master\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\kalkulatorku-master\kalkulatorku-master\Calculator\obj\Debug\Calculator.exe
+C:\Users\Acer\Downloads\kalkulatorku-master\kalkulatorku-master\Calculator\obj\Debug\Calculator.pdb
+E:\Visual Studio\Kalkulator Saif\kalkulatorku-master\Calculator\bin\Debug\Calculator.exe.config
+E:\Visual Studio\Kalkulator Saif\kalkulatorku-master\Calculator\bin\Debug\Calculator.exe
+E:\Visual Studio\Kalkulator Saif\kalkulatorku-master\Calculator\bin\Debug\Calculator.pdb
+E:\Visual Studio\Kalkulator Saif\kalkulatorku-master\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Visual Studio\Kalkulator Saif\kalkulatorku-master\Calculator\obj\Debug\Calculator.FormUtama.resources
+E:\Visual Studio\Kalkulator Saif\kalkulatorku-master\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Visual Studio\Kalkulator Saif\kalkulatorku-master\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Visual Studio\Kalkulator Saif\kalkulatorku-master\Calculator\obj\Debug\Calculator.exe
+E:\Visual Studio\Kalkulator Saif\kalkulatorku-master\Calculator\obj\Debug\Calculator.pdb
