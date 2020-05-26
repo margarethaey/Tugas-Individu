@@ -1,0 +1,10 @@
+E:\Visual Studio\Form Pendaftaran\Form Pendaftaran\Form Pendaftaran\bin\Debug\Form Pendaftaran.exe.config
+E:\Visual Studio\Form Pendaftaran\Form Pendaftaran\Form Pendaftaran\bin\Debug\Form Pendaftaran.exe
+E:\Visual Studio\Form Pendaftaran\Form Pendaftaran\Form Pendaftaran\bin\Debug\Form Pendaftaran.pdb
+E:\Visual Studio\Form Pendaftaran\Form Pendaftaran\Form Pendaftaran\obj\Debug\Form Pendaftaran.csprojAssemblyReference.cache
+E:\Visual Studio\Form Pendaftaran\Form Pendaftaran\Form Pendaftaran\obj\Debug\Form_Pendaftaran.Form1.resources
+E:\Visual Studio\Form Pendaftaran\Form Pendaftaran\Form Pendaftaran\obj\Debug\Form_Pendaftaran.Properties.Resources.resources
+E:\Visual Studio\Form Pendaftaran\Form Pendaftaran\Form Pendaftaran\obj\Debug\Form Pendaftaran.csproj.GenerateResource.cache
+E:\Visual Studio\Form Pendaftaran\Form Pendaftaran\Form Pendaftaran\obj\Debug\Form Pendaftaran.exe
+E:\Visual Studio\Form Pendaftaran\Form Pendaftaran\Form Pendaftaran\obj\Debug\Form Pendaftaran.pdb
+E:\Visual Studio\Form Pendaftaran\Form Pendaftaran\Form Pendaftaran\obj\Debug\Form_Pendaftaran.Home.resources

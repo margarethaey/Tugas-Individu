@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Margaretha's Journey</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+    <!-- bagian header template -->
+    <header>
+        <h1 class="judul">Roller Coaster Of Life</h1>
+        <p class="deskripsi">Selamat Datang dan Selamat Membaca</p>
+    </header>
+    <!-- akhir bagian header template -->
+
+    <div class="wrap">
+        <!-- bagian menu		 -->
+        <nav class="menu">
+            <ul>
+                <li>
+                    <a href="Halaman Home.html">Home</a>
+                </li>
+                <li>
+                    <a href="Halaman Tentang.html">Tentang Saya</a>
+                </li>
+                <li>
+                    <a href="Contact Me.html">Contact Me</a>
+                </li>
+            </ul>
+        </nav>
+        <!-- akhir bagian menu -->
+
+        <!-- bagian sidebar website -->
+        <aside class="sidebar">
+            <div class="widget">
+                <script type='text/javascript'>
+                    window.setTimeout("hari()", 0)
+
+                    function hari() {
+                        var namah = new Array("Minggu", "Senin", "Selasa", "Rabu", "Kamis", "Jum'at", "Sabtu");
+                        var namab = new Array("Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "November", "Desember");
+                        var tanggal = new Date();
+                        setTimeout("hari()", 0);
+                        document.getElementById("tampilan").innerHTML = namah[tanggal.getDay()] + " , " + tanggal.getDate() + " " + namab[tanggal.getMonth()] + " " + tanggal.getFullYear();
+                    }
+                </script>
+                <div style="color : black;font-size: 20pt" id='tampilan'></div>
+            </div>
+            <div class="widget">
+                <h2 style="text-align: center;">Sosial Media Saya</h2>
+                <p style="text-align: center;"><a href="http://www.instagram.com/margaretha_ey"><b>Instagram</b></a></p>
+                <p style="text-align: center;"><a href="http://www.twitter.com/ekaristiybll"><b>Twitter</b></a></p>
+                <p style="text-align: center;"><a href="http://www.facebook.com/heyyitsmey"><b>Facebook</b></a></p>
+            </div>
+        </aside>
+        <!-- akhir bagian sidebar website -->
+
+        <!-- bagian konten Blog -->
+        <div class="blog">
+            <div class="konten">
+                <div class="post-info">
+                </div>
+                <h1 style="text-align: center;">Contact Me</h1>
+                <hr>
+                <div class="pesan">
+                    <form action="#" method="POST" onSubmit="validasi()">
+                        <div>
+                            <label>Nama Lengkap:</label>
+                            <input type="text" name="nama" id="nama" />
+                        </div>
+                        <div>
+                            <label>Email:</label>
+                            <input type="email" name="email" id="email" />
+                        </div>
+                        <div>
+                            <label>Pesan, Kritik dan Saran:</label>
+                            <textarea cols="40" rows="5" name="kritiksaran" id="kritiksaran"></textarea>
+                        </div>
+                        <div>
+                            <input type="submit" value="Kirim" class="tombol">
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- akhir bagian konten Blog -->
+    </div>
+</body>
+<script type="text/javascript">
+    function validasi() {
+        var nama = document.getElementById("nama").value;
+        var email = document.getElementById("email").value;
+        var kritiksaran = document.getElementById("kritiksaran").value;
+        if (nama != "" && email != "" && kritiksaran != "") {
+            return true;
+        } else {
+            alert('Anda harus mengisi data dengan lengkap !');
+        }
+    }
+</script>
+
+</html>
